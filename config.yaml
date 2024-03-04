@@ -1,7 +1,6 @@
-baseURL: "https://fabianjaeger1.github.io/"
-# baseURL: "https://fabianjaeger.org"
+baseURL: "https://fabianjaeger1.github.io/PersonalWebsite/" 
 languageCode: en-us
-title: My New Hugo Site
+title: Fabian's Blog
 paginate: 5
 theme: ["PaperMod"]
 

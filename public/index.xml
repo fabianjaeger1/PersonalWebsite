@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Fabian&#39;s Blog</title>
+    <link>http://localhost:1313/PersonalWebsite/</link>
+    <description>Recent content on Fabian&#39;s Blog</description>
     <image>
-      <title>My New Hugo Site</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Fabian&#39;s Blog</title>
+      <url>http://localhost:1313/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 23:15:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/PersonalWebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking</title>
-      <link>http://localhost:1313/projects/acetylcholinesterase/</link>
+      <link>http://localhost:1313/PersonalWebsite/projects/acetylcholinesterase/</link>
       <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/projects/acetylcholinesterase/</guid>
+      <guid>http://localhost:1313/PersonalWebsite/projects/acetylcholinesterase/</guid>
       <description>Abstract Alzheimer’s disease (AD) is a chronic neurodegenerative disease which leads to the gradual loss of neuronal cells. Several hypotheses for AD exists (e.g., cholinergic, amyloid, tau hypotheses, etc.). As per the cholinergic hypothesis, the deficiency of choline is responsible for AD; therefore, the inhibition of AChE is a lucrative therapeutic strategy for the treatment of AD. Acetylcholinesterase (AChE) is an enzyme that catalyzes the breakdown of the neurotransmitter acetylcholine that is essential for cognition and memory.</description>
     </item>
     <item>
       <title>Machine Learning Overview</title>
-      <link>http://localhost:1313/blog/first_post/</link>
+      <link>http://localhost:1313/PersonalWebsite/blog/first_post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/blog/first_post/</guid>
+      <guid>http://localhost:1313/PersonalWebsite/blog/first_post/</guid>
       <description>Regression Problem Different Types of Regressions Example used: Build a model to predict housing prices. Included metrics are population, median income and median housing price.
 Multiple Regression: use multiple feature (use district population, the median income) s to make a prediction
 Univariate [[Regression]]: only predict a single value for the output
@@ -33,9 +33,9 @@ Performance Measure Typical Performance measures for regression problems is the 
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/PersonalWebsite/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/PersonalWebsite/about/</guid>
       <description>In my daytime, I work as a Developer Advocate at a US Tech company.
 At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:
 📺 YouTube: Data Professor, Coding Professor 📝 Medium Blogs. 💻 GitHub In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
@@ -43,9 +43,9 @@ Google Scholar ORCID SCOPUS ResearchGate GitHub: chaninn, chaninlab You can also
     </item>
     <item>
       <title>Thoughts</title>
-      <link>http://localhost:1313/thoughts/</link>
+      <link>http://localhost:1313/PersonalWebsite/thoughts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thoughts/</guid>
+      <guid>http://localhost:1313/PersonalWebsite/thoughts/</guid>
       <description>thoughts</description>
     </item>
   </channel>
