@@ -1,10 +1,10 @@
 ---
-title: "About"
+title: "About Me"
 date: 
 slug: about
 category:
 summary:
-description: 
+description:
 cover:
   image:
   alt:
@@ -12,7 +12,17 @@ cover:
   relative: true
 showtoc: false
 draft: false
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+ShowWordCount: false
+hideMeta: true
+ShowRssButtonInSectionTermList: false
 ---
+
+<!-- <img src="images/pp.jpg> -->
+
+![Test](images/pp.jpg)
 
 In my daytime, I work as a Developer Advocate at a US Tech company. 
 
