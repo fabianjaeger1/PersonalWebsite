@@ -1,5 +1,5 @@
-# baseURL: "https://fabianjaeger1.github.io/"
-baseURL: "https://fabianjaeger.org"
+baseURL: "https://fabianjaeger1.github.io/"
+# baseURL: "https://fabianjaeger.org"
 languageCode: en-us
 title: My New Hugo Site
 paginate: 5
