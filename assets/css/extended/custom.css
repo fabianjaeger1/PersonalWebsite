@@ -1,0 +1,103 @@
+/* body .post-single { */
+   /* font-family: 'Work Sans'; */
+   /* font-family: "Latin Modern Roman"; */
+   /* font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */
+/* } */
+
+
+/* body .post-content {
+   /* font-family: "Palatino"; */
+ */
+
+
+.logo-switches {
+    padding-top:1px;
+}
+
+/* Remove vertical bar */
+header ul.lang-switch {
+   display: none;
+} 
+
+/* Nav items in the header */
+header ul#menu li a {
+   font-weight: bold;
+   font-size: 17px;
+}
+
+/* Nav items when selected */
+header ul#menu li a span.active{
+   font-weight: bold;
+   text-decoration: underline;
+   text-decoration-color: var(--link);
+   text-decoration-skip-ink: none;
+   text-decoration-thickness: 0.5em;
+   text-underline-offset: -0.25em;
+   transition: text-decoration .3s;
+}
+
+body .share-buttons {
+   display: none;
+}
+:root {
+   --link: #FFF7B1;
+   --link-hover: #FFEE50;
+   --main-width: 1200px;
+   --nav-width: 2000px;
+   --gap: 30px;
+   --content-gap: 30px;
+   --radius: 12px;
+   --theme: rgb(255, 255, 255);
+   --entry: rgb(255, 255, 255);
+   --primary: rgb(64, 61, 61);
+   --secondary: rgb(108, 108, 108);
+   --tertiary: rgb(214, 214, 214);
+   --content: rgb(31, 31, 31);
+   --code-block-bg: rgb(28, 29, 33);
+   --code-bg: rgb(245, 245, 245);
+   --border: rgb(238, 238, 238);
+}
+
+.dark {
+   --theme: rgb(29, 30, 32);
+   --entry: rgb(46, 46, 51);
+   --primary: rgb(218, 218, 219);
+   --secondary: rgb(155, 156, 157);
+   --tertiary: rgb(65, 66, 68);
+   --content: rgb(196, 196, 197);
+   --code-block-bg: rgb(46, 46, 51);
+   --code-bg: rgb(55, 56, 62);
+   --border: rgb(51, 51, 51);
+}
+
+.list {
+   background: var(--code-bg);
+}
+
+.dark.list {
+   background: var(--theme);
+}
+
+
+
+body .post-content {
+   line-height: 1.5;
+}
+
+body .post-content a {
+   text-decoration: underline;
+   text-decoration-color: var(--link);
+   text-decoration-skip-ink: none;
+   text-decoration-thickness: 0.5em;
+   text-underline-offset: -0.25em;
+   transition: text-decoration .3s;
+}
+
+body .post-content a:hover {
+   text-decoration-color: var(--link-hover);
+}
+
+body .post-content h2 {
+   padding-bottom: 20px;
+   text-align: center;
+}

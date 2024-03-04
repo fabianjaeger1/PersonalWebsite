@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on My New Hugo Site</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on My New Hugo Site</description>
+    <image>
+      <title>My New Hugo Site</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2022 23:15:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>In my daytime, I work as a Developer Advocate at a US Tech company.
+At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:
+📺 YouTube: Data Professor, Coding Professor 📝 Medium Blogs. 💻 GitHub In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
+Google Scholar ORCID SCOPUS ResearchGate GitHub: chaninn, chaninlab You can also connect with me at the following social platforms:</description>
+    </item>
+  </channel>
+</rss>

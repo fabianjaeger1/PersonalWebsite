@@ -1,0 +1,403 @@
+
+ 
+/* body .post-content-thoughts ul {
+   padding-left:20px;
+}
+
+body .post-content-thoughts {
+   padding: 20px;
+}
+
+body .post-single-thoughts {
+   max-width: 800px;
+   line-height: 1.5;
+   padding: 5px;
+   /* color: green; */
+
+/* body .post-single-thoughts h1, h2, h3 {
+   text-align: center;
+   text-decoration: underline;
+   margin-top: 40px;
+   margin-bottom: 40px;
+} */
+
+/* body .post-content-thoughts-thoughts {
+   line-height: 1.5;
+} */
+
+/* .header {
+    display: none;
+} */
+
+/* :root {
+    --content-thoughts: rgb(77, 77, 77);
+}
+ 
+.dark {
+    --content-thoughts: rgb(218, 218, 219);
+} */
+
+/* Overwrite to smaller width */
+.post-single-thoughts {
+    position: relative;
+    min-height: calc(100vh - var(--header-height) - var(--footer-height));
+    max-width: calc(700px + var(--gap) * 2);
+    margin: auto;
+    padding: var(--gap);
+}
+
+body .post-content-thoughts {
+    /* font-family: 'Times New Roman', Times, serif */
+    /* font-family: "Libre Baskerville" */
+    font-family: 'Libre Baskerville';
+    color: var(--content-thoughts);
+    font-size: 16px;
+    line-height: 2.0
+    /* font-family: --apple-system, sans-serif */
+}
+
+.post-content-thoughts {
+    color: var(--content-thoughts);
+}
+
+
+body .post-single-thoughts h3,
+body .post-single-thoughts h4,
+body .post-single-thoughts h5,
+body .post-single-thoughts h6 {
+    margin: 24px 0 16px;
+    /* align-items: center; */
+    /* text-align: center; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+body .post-single-thoughts h1 {
+    margin: 40px auto 32px;
+    font-size: 28px;
+}
+
+body .post-single-thoughts h2 {
+    margin: 40px auto 32px;
+    margin-bottom: 50px;
+    font-size: 26px;
+    text-align: center;
+    /* text-decoration: underline; */
+}
+
+
+/* 
+body .post-single-thoughts h2 {
+    display: inline-block;
+}
+body .post-single-thoughts h2:before {
+    content: " ";
+    display: block;
+    height: 90%;
+    width: 100%;
+    margin-left: -3px;
+    margin-right: -3px;
+    position: absolute;
+    background: #ffd500;
+    transform: rotate(2deg);
+    top: -1px;
+    left: -1px;
+    border-radius: 20% 25% 20% 24%;
+    padding: 10px 3px 3px 10px;
+} */
+
+
+body .post-single-thoughts h1 {
+    display: inline-block;
+    margin: 0 -0.4em;
+    /* padding: 0.1em 0.4em; */
+    /* padding: -0.1em; */
+    margin-bottom: 30px;
+    margin-left: 0px;
+    border-radius: 0.8em 0.3em;
+    background: transparent;
+    background-image: linear-gradient(
+      to right,
+      rgba(255, 225, 0, 0.1),
+      rgba(255, 225, 0, 0.7) 4%,
+      rgba(255, 225, 0, 0.3)
+    );
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+
+
+/* Add circled heading */
+/* body .post-single-thoughts h2{
+    position:relative;
+    left:0.5em;
+    font-family: Libre Franklin;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+body .post-single-thoughts h2:before{
+    content:"";
+    z-index:-1;
+    left:-0.5em;
+    top:-0.1em;
+    border-width:2px;
+    border-style:solid;
+    border-color:#ef8c22;
+    position:absolute;
+    border-right-color:transparent;
+    width:100%;
+    height:1em;
+    transform:rotate(2deg);
+    opacity:0.7;
+    border-radius:50%;
+    padding:0.1em 0.25em;
+}
+
+body .post-single-thoughts h2::after{
+    content:"";
+    z-index:-1;
+    left:-0.5em;
+    top:0.1em;
+    padding:0.1em 0.25em;
+    border-width:2px;
+    border-style:solid;
+    border-color:#ef8c22;
+    border-left-color:transparent;
+    border-top-color:transparent;
+    position:absolute;
+    width:100%;
+    height:1em;
+    transform:rotate(-1deg);
+    opacity:0.7;
+    border-radius:50%;
+} */
+
+
+/* body .post-single-thoughts h2:before,
+body .post-single-thoughts h2:after {
+    content: " † ";
+    display: inline-block;
+    padding: 10px;
+    margin: 0 5px; 
+    color: var(--content-thoughts)
+} */
+
+
+body .post-single-thoughts h3 {
+    font-size: 20px;
+    align-items: center;
+}
+
+body .post-content-thoughts h4 {
+    font-size: 16px;
+    align-items: center;
+}
+
+body .post-content-thoughts h5 {
+    font-size: 14px;
+    align-items: center;
+}
+
+body .post-content-thoughts h6 {
+    font-size: 12px;
+    align-items: center;
+}
+
+body .post-content-thoughts a,
+.toc a:hover {
+    box-shadow: 0 1px 0;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+body .post-content-thoughts a code {
+    margin: auto 0;
+    border-radius: 0;
+    box-shadow: 0 -1px 0 var(--primary) inset;
+}
+
+body .post-content-thoughts del {
+    text-decoration: line-through;
+}
+
+.post-content-thoughts dl,
+.post-content-thoughts ol,
+.post-content-thoughts p,
+.post-content-thoughts figure,
+.post-content-thoughts ul {
+    margin-bottom: var(--content-gap);
+}
+
+.post-content-thoughts ol,
+.post-content-thoughts ul {
+    padding-inline-start: 20px;
+}
+
+body .post-content-thoughts li {
+    margin-top: 5px;
+}
+
+body .post-content-thoughts li p {
+    margin-bottom: 0;
+}
+
+body .post-content-thoughts dl {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+body .post-content-thoughts dt {
+    width: 25%;
+    font-weight: 700;
+}
+
+body .post-content-thoughts dd {
+    width: 75%;
+    margin-inline-start: 0;
+    padding-inline-start: 10px;
+}
+
+.post-content-thoughts dd ~ dd,
+.post-content-thoughts dt ~ dt {
+    margin-top: 10px;
+}
+
+body .post-content-thoughts table {
+    margin-bottom: var(--content-gap);
+}
+
+.post-content-thoughts table th,
+.post-content-thoughts table:not(.highlighttable, .highlight table, .gist .highlight) td {
+    min-width: 80px;
+    padding: 8px 5px;
+    line-height: 1.5;
+    border-bottom: 1px solid var(--border);
+}
+
+.post-content-thoughts table th {
+    text-align: start;
+}
+
+.post-content-thoughts table:not(.highlighttable) td code:only-child {
+    margin: auto 0;
+}
+
+.post-content-thoughts .highlight table {
+    border-radius: var(--radius);
+}
+
+.post-content-thoughts .highlight:not(table) {
+    margin: 10px auto;
+    background: var(--code-block-bg) !important;
+    border-radius: var(--radius);
+    direction: ltr;
+}
+
+.post-content-thoughts li > .highlight {
+    margin-inline-end: 0;
+}
+
+.post-content-thoughts ul pre {
+    margin-inline-start: calc(var(--gap) * -2);
+}
+
+.post-content-thoughts .highlight pre {
+    margin: 0;
+}
+
+.post-content-thoughts .highlighttable {
+    table-layout: fixed;
+}
+
+.post-content-thoughts .highlighttable td:first-child {
+    width: 40px;
+}
+
+.post-content-thoughts .highlighttable td .linenodiv {
+    padding-inline-end: 0 !important;
+}
+
+.post-content-thoughts .highlighttable td .highlight,
+.post-content-thoughts .highlighttable td .linenodiv pre {
+    margin-bottom: 0;
+}
+
+.post-content-thoughts code {
+    margin: auto 4px;
+    padding: 4px 6px;
+    font-size: 0.78em;
+    line-height: 1.5;
+    background: var(--code-bg);
+    border-radius: 2px;
+}
+
+.post-content-thoughts pre code {
+    display: grid;
+    margin: auto 0;
+    padding: 10px;
+    color: rgb(213, 213, 214);
+    background: var(--code-block-bg) !important;
+    border-radius: var(--radius);
+    overflow-x: auto;
+    word-break: break-all;
+}
+
+.post-content-thoughts blockquote {
+    margin: 20px 0;
+    padding: 0 14px;
+    border-inline-start: 3px solid var(--primary);
+}
+
+.post-content-thoughts hr {
+    margin: 30px 0;
+    height: 2px;
+    background: var(--tertiary);
+    border: 0;
+}
+
+.post-content-thoughts iframe {
+    max-width: 100%;
+}
+
+.post-content-thoughts img {
+    border-radius: 4px;
+    margin: 1rem 0;
+}
+
+.post-content-thoughts img[src*="#center"] {
+    margin: 1rem auto;
+}
+
+.post-content-thoughts figure.align-center {
+    text-align: center;
+}
+
+.post-content-thoughts figure > figcaption {
+    color: var(--primary);
+    font-size: 16px;
+    font-weight: bold;
+    margin: 8px 0 16px;
+}
+
+.post-content-thoughts figure > figcaption > p {
+    color: var(--secondary);
+    font-size: 14px;
+    font-weight: normal;
+}
+
+
+/* Remove the weird hovering hashtag after the heading */
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
+    /* display: inline-flex; */
+    display: none;
+    color: var(--secondary);
+    margin-inline-start: 8px;
+    font-weight: 500;
+    user-select: none;
+}
