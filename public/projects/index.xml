@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Fabian&#39;s Blog</title>
-    <link>https://fabianjaeger1.github.io/PersonalWebsite/projects/</link>
+    <link>http://localhost:1313/PersonalWebsite/projects/</link>
     <description>Recent content in Projects on Fabian&#39;s Blog</description>
     <image>
       <title>Fabian&#39;s Blog</title>
-      <url>https://fabianjaeger1.github.io/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://fabianjaeger1.github.io/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 23:15:00 +0700</lastBuildDate>
-    <atom:link href="https://fabianjaeger1.github.io/PersonalWebsite/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/PersonalWebsite/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking</title>
-      <link>https://fabianjaeger1.github.io/PersonalWebsite/projects/acetylcholinesterase/</link>
+      <link>http://localhost:1313/PersonalWebsite/projects/acetylcholinesterase/</link>
       <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>https://fabianjaeger1.github.io/PersonalWebsite/projects/acetylcholinesterase/</guid>
+      <guid>http://localhost:1313/PersonalWebsite/projects/acetylcholinesterase/</guid>
       <description>Abstract Alzheimer’s disease (AD) is a chronic neurodegenerative disease which leads to the gradual loss of neuronal cells. Several hypotheses for AD exists (e.g., cholinergic, amyloid, tau hypotheses, etc.). As per the cholinergic hypothesis, the deficiency of choline is responsible for AD; therefore, the inhibition of AChE is a lucrative therapeutic strategy for the treatment of AD. Acetylcholinesterase (AChE) is an enzyme that catalyzes the breakdown of the neurotransmitter acetylcholine that is essential for cognition and memory.</description>
     </item>
   </channel>
