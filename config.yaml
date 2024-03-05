@@ -58,9 +58,12 @@ params:
 
   label:
     text: "Fabian Jaeger"
-    icon: "images/coding.png"
+    # icon: "images/coding.png"
+    # icon: "images/pp_icon.png"
+    icon: "images/pp_icon.svg"
     # icon: "images/notion_avatar.png"
     iconHeight: 30
+    # iconHeight: 40
 
   # profile-mode
   profileMode:

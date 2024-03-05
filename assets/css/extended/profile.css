@@ -11,8 +11,7 @@
     font-size: 28px;
  }
 
-
- .profile_inner {
+.profile_inner {
     position: relative; 
     /* min-height: calc(100vh - var(--header-height) - var(--footer-height)); */
     max-width: calc(700px + var(--gap) * 2);
@@ -22,4 +21,24 @@
     text-align: left;
     line-height: 1.7;
     /* text-align: left; */
+}
+
+.nav {
+    margin-top: 10px;
+}
+.nav .logo a img{
+    /* background-color: green; */
+    margin-right: 15px;
+    margin-left: 10px;
+    padding: 2px;
+    /* padding: 5px; */
+    /* background-color: var(--text-color); */
+}
+
+.dark .nav .logo a img { 
+    /* background-color: var(--secondary); */
+    -webkit-filter: invert(.75); /* safari 6.0 - 9.0 */
+          filter: invert(.75);
+    /* opacity: 0.8; */
+    /* border-radius: 10px; */
 }
