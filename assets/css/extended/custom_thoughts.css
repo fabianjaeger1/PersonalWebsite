@@ -50,7 +50,7 @@ body .post-content-thoughts {
     /* font-family: 'Times New Roman', Times, serif */
     /* font-family: "Libre Baskerville" */
     font-family: 'Libre Baskerville';
-    font-family: 'CMS';
+    /* font-family: 'CMS'; */
     color: var(--content-thoughts);
     font-size: 16px;
     line-height: 2.0
