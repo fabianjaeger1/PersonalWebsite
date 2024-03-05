@@ -65,8 +65,9 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Welcome to my Personal Website
-    subtitle: ""
+    # title: "👋 Hi there,"
+    title: "Welcome!"
+    subtitle: "Hi, I'm **Fabian Jaeger**. I am documenting my learnings about **Artificial Intelligence, Science** and **Software Development** in my blog. You can also find my idle musings. Besides, I am working as a Data Scientist for a pharma company in Switzerland."
     imageUrl: "images/notion_avatar.png"
     imageWidth: 120
     imageHeight: 120

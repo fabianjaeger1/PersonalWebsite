@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/PersonalWebsite/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/</loc>
     <lastmod>2022-04-04T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/projects/acetylcholinesterase/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/projects/acetylcholinesterase/</loc>
     <lastmod>2022-04-04T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/projects/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/projects/</loc>
     <lastmod>2022-04-04T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/blog/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/blog/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/tags/first/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/blog/first_post/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/blog/first_post/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/tags/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/about/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/archives/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/categories/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/search/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/thoughts/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/thoughts/</loc>
   </url>
 </urlset>

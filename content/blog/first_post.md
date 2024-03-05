@@ -44,6 +44,7 @@ editPost:
 _Example used:_ Build a model to predict housing prices. Included metrics are population, median income and median housing price.
 
 - Multiple [Regression](https://en.wikipedia.org/wiki/Regression_analysis): use multiple feature (use district population, the median income) s to make a prediction 
+Additionally
 
 - Univariate [[Regression]]: only predict a single value for the output
 - Multivariate [[Regression]]: predict multiple values per district

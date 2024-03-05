@@ -1,0 +1,25 @@
+.profile_inner h1 {
+    /* background-color: green; */
+    /* position: relative; */
+    /* min-height: calc(100vh - var(--header-height) - var(--footer-height));
+    max-width: calc(700px + var(--gap) * 2); */
+    /* margin: auto; */
+    /* padding: var(--gap); */
+    padding-top: 25px;
+    padding-bottom: 15px;
+    /* padding-bottom: 20p */
+    font-size: 28px;
+ }
+
+
+ .profile_inner {
+    position: relative; 
+    /* min-height: calc(100vh - var(--header-height) - var(--footer-height)); */
+    max-width: calc(700px + var(--gap) * 2);
+    margin: auto; 
+    padding: var(--gap);
+    /* text-align: middle; */
+    text-align: left;
+    line-height: 1.7;
+    /* text-align: left; */
+}
