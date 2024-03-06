@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 23:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://fabianjaeger1.github.io/PersonalWebsite/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking</title>
-      <link>https://fabianjaeger1.github.io/PersonalWebsite/projects/acetylcholinesterase/</link>
-      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>https://fabianjaeger1.github.io/PersonalWebsite/projects/acetylcholinesterase/</guid>
-      <description>Abstract Alzheimer’s disease (AD) is a chronic neurodegenerative disease which leads to the gradual loss of neuronal cells. Several hypotheses for AD exists (e.g., cholinergic, amyloid, tau hypotheses, etc.). As per the cholinergic hypothesis, the deficiency of choline is responsible for AD; therefore, the inhibition of AChE is a lucrative therapeutic strategy for the treatment of AD. Acetylcholinesterase (AChE) is an enzyme that catalyzes the breakdown of the neurotransmitter acetylcholine that is essential for cognition and memory.</description>
-    </item>
     <item>
       <title>Machine Learning Overview</title>
       <link>https://fabianjaeger1.github.io/PersonalWebsite/blog/first_post/</link>
@@ -52,6 +45,13 @@ There as a Student Researcher, I performed electronic structure calculations bas
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fabianjaeger1.github.io/PersonalWebsite/thoughts/</guid>
       <description>thoughts</description>
+    </item>
+    <item>
+      <title>Universal Machine Learning Force Fields</title>
+      <link>https://fabianjaeger1.github.io/PersonalWebsite/projects/project_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fabianjaeger1.github.io/PersonalWebsite/projects/project_1/</guid>
+      <description>Under construction </description>
     </item>
   </channel>
 </rss>

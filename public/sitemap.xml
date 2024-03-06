@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/</loc>
-    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/projects/acetylcholinesterase/</loc>
-    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/projects/</loc>
-    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
-  </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/blog/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/tags/first/</loc>
@@ -31,8 +25,12 @@
   </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/categories/</loc>
   </url><url>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/projects/</loc>
+  </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/search/</loc>
   </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/thoughts/</loc>
+  </url><url>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/projects/project_1/</loc>
   </url>
 </urlset>
