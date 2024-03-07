@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://fabianjaeger1.github.io/PersonalWebsite/sitemap.xml

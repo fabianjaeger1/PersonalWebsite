@@ -49,7 +49,7 @@ You can also connect with me at the following social platforms:
 
 My background is in **theoretical condensed matter and quantum physics**. I graduated in 2023 from **[ETH Zurich](https://ethz.ch/en.html)**. I conducted my research in the [Materials Theory Group](https://theory.mat.ethz.ch/) under Prof. [Nicola Spaldin](https://scholar.google.de/citations?user=eUfdZowAAAAJ&hl=en). I joined initially in Fall 2022 to work on the behaviour of polar metals, an unusual and even contraindicated combination that leads to some exotic physics. 
 
-There as a **Student Researcher**, I performed electronic structure calculations based on density functional theory and constructed physical Hamiltonian models to demonstrate that two phenomena, the kinetic magnetoelectric effect and the non-linear Hall effect, are universal to polar metals. This work will be published in Physical Review Research with [Sayantika Bhowal](https://scholar.google.com/citations?user=KEbHeN0AAAAJ&hl=en) in APS and the pre-print can be found [here](https://arxiv.org/pdf/2309.09794.pdf).
+There as a **Student Researcher**, I performed electronic structure calculations based on density functional theory and constructed physical Hamiltonian models to demonstrate that two phenomena, the kinetic magnetoelectric effect and the non-linear Hall effect, are universal to polar metals. This work was published in Physical Review Research with [Sayantika Bhowal](https://scholar.google.com/citations?user=KEbHeN0AAAAJ&hl=en) in [APS](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013251) and the pre-print can be found [here](https://arxiv.org/pdf/2309.09794.pdf).
 
 During my studies, I took on a a few machine learning modules and got facinated by the field and so I decided to **get a student jobs working in Data Science** for a small pharma company that aims to deliver a drug-identificaton software to pharmacies. 
 
@@ -62,5 +62,5 @@ My **[Bachelor Thesis](Bachelor_Thesis.pdf)** was conducted in the group of [Pro
 ### Additional
 
 I will also leave some of my write-ups here, in case anyone can find use in them:
-- [Quantenmechanik I](Quantenmechanik.pdf): This is a 200 page 'summary' of the content covered in the quantum mechanics I course from the Fall Semester 2019.
+- [Quantenmechanik I](Quantenmechanik.pdf): This is a 200 page 'summary' in German of the content covered in the quantum mechanics I course from the Fall Semester 2019.
 <!-- - [Bachelor Thesis](Bachelor_Thesis.pdf) -->

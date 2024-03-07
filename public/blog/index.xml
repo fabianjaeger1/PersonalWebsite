@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Fabian&#39;s Blog</title>
     <link>https://fabianjaeger1.github.io/PersonalWebsite/blog/</link>
     <description>Recent content in Blogs on Fabian&#39;s Blog</description>
-    <image>
-      <title>Fabian&#39;s Blog</title>
-      <url>https://fabianjaeger1.github.io/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://fabianjaeger1.github.io/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
@@ -18,11 +13,7 @@
       <link>https://fabianjaeger1.github.io/PersonalWebsite/blog/first_post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       <guid>https://fabianjaeger1.github.io/PersonalWebsite/blog/first_post/</guid>
-      <description>Regression Problem Different Types of Regressions Example used: Build a model to predict housing prices. Included metrics are population, median income and median housing price.
-Multiple Regression: use multiple feature (use district population, the median income) s to make a prediction Additionally
-Univariate [[Regression]]: only predict a single value for the output
-Multivariate [[Regression]]: predict multiple values per district
-Performance Measure Typical Performance measures for regression problems is the Root Mean Square Error</description>
+      <description>Regression Problem Different Types of Regressions Example used: Build a model to predict housing prices. Included metrics are population, median income and median housing price.&#xA;Multiple Regression: use multiple feature (use district population, the median income) s to make a prediction Additionally&#xA;Univariate [[Regression]]: only predict a single value for the output&#xA;Multivariate [[Regression]]: predict multiple values per district&#xA;Performance Measure Typical Performance measures for regression problems is the Root Mean Square Error</description>
     </item>
     <item>
       <title>Bayesian Machine Learning</title>
