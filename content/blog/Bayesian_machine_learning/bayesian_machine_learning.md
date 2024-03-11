@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Bayesian Machine Learning"
 date: 
 # weight: 1
@@ -38,4 +38,4 @@ editPost:
 ---
 
 ## Bayesian Rule
-
+ -->

@@ -6,21 +6,20 @@
     <description>Recent content in Blogs on Fabian&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://fabianjaeger1.github.io/PersonalWebsite/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Machine Learning Overview</title>
-      <link>https://fabianjaeger1.github.io/PersonalWebsite/blog/first_post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://fabianjaeger1.github.io/PersonalWebsite/blog/first_post/</guid>
-      <description>Regression Problem Different Types of Regressions Example used: Build a model to predict housing prices. Included metrics are population, median income and median housing price.&#xA;Multiple Regression: use multiple feature (use district population, the median income) s to make a prediction Additionally&#xA;Univariate [[Regression]]: only predict a single value for the output&#xA;Multivariate [[Regression]]: predict multiple values per district&#xA;Performance Measure Typical Performance measures for regression problems is the Root Mean Square Error</description>
-    </item>
-    <item>
-      <title>Bayesian Machine Learning</title>
+      <title></title>
       <link>https://fabianjaeger1.github.io/PersonalWebsite/blog/bayesian_machine_learning/bayesian_machine_learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fabianjaeger1.github.io/PersonalWebsite/blog/bayesian_machine_learning/bayesian_machine_learning/</guid>
-      <description>Bayesian Rule </description>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://fabianjaeger1.github.io/PersonalWebsite/blog/first_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fabianjaeger1.github.io/PersonalWebsite/blog/first_post/</guid>
+      <description> </description>
     </item>
   </channel>
 </rss>

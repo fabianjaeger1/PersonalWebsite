@@ -2,35 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/blog/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/blog/bayesian_machine_learning/bayesian_machine_learning/</loc>
   </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/blog/first_post/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/projects/project_1/</loc>
   </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/about/</loc>
   </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/archives/</loc>
   </url><url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/blog/bayesian_machine_learning/bayesian_machine_learning/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/blog/</loc>
   </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/categories/</loc>
+  </url><url>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/</loc>
   </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/projects/</loc>
   </url><url>
     <loc>https://fabianjaeger1.github.io/PersonalWebsite/search/</loc>
   </url><url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/thoughts/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/tags/</loc>
   </url><url>
-    <loc>https://fabianjaeger1.github.io/PersonalWebsite/projects/project_1/</loc>
+    <loc>https://fabianjaeger1.github.io/PersonalWebsite/thoughts/</loc>
   </url>
 </urlset>

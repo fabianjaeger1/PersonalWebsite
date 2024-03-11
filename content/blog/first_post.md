@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Machine Learning Overview"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
@@ -83,4 +83,4 @@ There are in general three different classification we distinguish between
 | Nr. output neurons      | 1                     | 1 per label                      | 1 per class               |
 | Output layer activation | Logistic              | Logistic                         | Softmax                   |
 | [[Loss function]]       | Cross entropy         | Cross Entropy                    | Cross Entropy             |
-
+ -->
