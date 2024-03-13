@@ -63,6 +63,5 @@ My **[Bachelor Thesis](Bachelor_Thesis.pdf)** was conducted in the group of [Pro
 
 I will also leave some of my write-ups here, in case anyone can find use in them:
 - [Quantenmechanik I](Quantenmechanik.pdf): This is a 200 page 'summary' in German of the content covered in the quantum mechanics I course from the Fall Semester 2019.
-- [Short Survey on Bayesian Neural Networks](Survey_BNN.pdf): This is a short overview and heavily inspired by "Wilson et.al Bayesian Deep Learn-
-ing and a Probabilistic Perspective of Generalization"
+- [Short Survey on Bayesian Neural Networks](Survey_BNN.pdf): This is a short overview and heavily inspired by Wilson et. al *"Bayesian Deep Learning and a Probabilistic Perspective of Generalization"*
 <!-- - [Bachelor Thesis](Bachelor_Thesis.pdf) -->
