@@ -70,7 +70,7 @@ params:
     enabled: true # needs to be explicitly set
     # title: "👋 Hi there,"
     title: "Welcome!"
-    subtitle: "Hi, I'm **Fabian Jaeger**. I am documenting my learnings about **Artificial Intelligence, Science** and **Software Development** in my blog. You can also find my idle musings."
+    subtitle: "Hi, I'm **Fabian Jaeger**. I am documenting my learnings about **Artificial Intelligence, Science** and **Software Development** in my blog. You can also find my idle musings. The site is currently under construction, please come back for more later"
     imageUrl: "images/notion_avatar.png"
     imageWidth: 120
     imageHeight: 120
