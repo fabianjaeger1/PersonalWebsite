@@ -11,20 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/PersonalWebsite/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/PersonalWebsite/blog/first_post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/PersonalWebsite/blog/first_post/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Bayesian Machine Learning</title>
-      <link>http://localhost:1313/PersonalWebsite/blog/bayesian_machine_learning/bayesian_machine_learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/PersonalWebsite/blog/bayesian_machine_learning/bayesian_machine_learning/</guid>
-      <description>Abstract: This concise overview introduces Bayesian Neural Networks (BNNs) as a promising alternative to standard neural networks (SNNs), which often suffer from a lack of interpretability, earning them the label of &amp;ldquo;black box&amp;rdquo; models. This lack of transparency to a neural network&amp;rsquo;s ability to explain its predictions is especially critical in the sciences and medicine where point estimates are not sufficient and uncertainty estimates are often required. Furthermore, it is argued that incorporating Bayesian concepts into machine learning can also improve the overall accuracy of models.</description>
-    </item>
   </channel>
 </rss>
