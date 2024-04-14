@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabian&#39;s Blog</title>
     <link>http://localhost:1313/PersonalWebsite/</link>
     <description>Recent content on Fabian&#39;s Blog</description>
-    <image>
-      <title>Fabian&#39;s Blog</title>
-      <url>http://localhost:1313/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/PersonalWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
@@ -25,8 +20,21 @@
       <link>http://localhost:1313/PersonalWebsite/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/PersonalWebsite/about/</guid>
-      <description>Background My background is in theoretical condensed matter and quantum physics. I graduated in 2023 from ETH Zurich. I conducted my research in the Materials Theory Group under Prof. Nicola Spaldin. I joined initially in Fall 2022 to work on the behaviour of polar metals, an unusual and even contraindicated combination that leads to some exotic physics.
-There as a student researcher, I performed electronic structure calculations based on density functional theory and constructed physical Hamiltonian models to demonstrate that two phenomena, the kinetic magnetoelectric effect and the non-linear Hall effect, are universal to polar metals.</description>
+      <description>Welcome Hi, I&amp;rsquo;m Fabian Jaeger. I am documenting my learnings about Artificial Intelligence, Science and Software Development in my blog. My interest lies in interpretable and reliable AI systems as well as Graph Machine Learning and the intersection of Machine learning and the sciences. If that sounds interesting to you, feel free to check out my Blog, where you will find other stuff that I thought worth sharing (still under construction though).</description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>http://localhost:1313/PersonalWebsite/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWebsite/archives/</guid>
+      <description>archives</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/PersonalWebsite/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWebsite/search/</guid>
+      <description>search</description>
     </item>
     <item>
       <title>Thoughts</title>

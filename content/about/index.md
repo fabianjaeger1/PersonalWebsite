@@ -45,6 +45,11 @@ You can also connect with me at the following social platforms:
 
 
 
+### Welcome
+
+Hi, I'm **Fabian Jaeger**. I am documenting my learnings about **Artificial Intelligence, Science** and **Software Development** in my blog. My interest lies in interpretable and reliable AI systems as well as Graph Machine Learning and the intersection of Machine learning and the sciences. If that sounds interesting to you, feel free to check out my Blog, where you will find other stuff that I thought worth sharing (still under construction though).
+
+
 ### Background
 
 My background is in **theoretical condensed matter and quantum physics**. I graduated in 2023 from **[ETH Zurich](https://ethz.ch/en.html)**. I conducted my research in the [Materials Theory Group](https://theory.mat.ethz.ch/) under Prof. [Nicola Spaldin](https://scholar.google.de/citations?user=eUfdZowAAAAJ&hl=en). I joined initially in Fall 2022 to work on the behaviour of polar metals, an unusual and even contraindicated combination that leads to some exotic physics. 
@@ -59,7 +64,7 @@ For my **[Master Thesis](Master_Thesis.pdf)** I then continued applying AI and w
 My **[Bachelor Thesis](Bachelor_Thesis.pdf)** was conducted in the group of [Prof. Titus Neupert](https://scholar.google.com/citations?user=zXNka-AAAAAJ&hl=en) and dealt with investigating the phases of floquet-driven quantum many-body critical systems in one and two-dimensions. This included a numerical simulation part as well as the analysis of an analytical solution using conformal field theory. The plots on this one I think are kinda neat!
 
 
-### Additional
+### Other Stuff
 
 I will also leave some of my write-ups here, in case anyone can find use in them:
 - [Quantenmechanik I](Quantenmechanik.pdf): This is a 200 page 'summary' in German of the content covered in the quantum mechanics I course from the Fall Semester 2019.
