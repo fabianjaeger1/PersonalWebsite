@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Intro to Recurrent Neural Networks"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
@@ -40,4 +40,4 @@ editPost:
 
 # Types of sequences modeling
 
-# RNN modeling
+# RNN modeling -->

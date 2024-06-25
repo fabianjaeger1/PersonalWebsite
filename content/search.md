@@ -6,3 +6,4 @@ layout: "search" # necessary for search
 summary: "search"
 placeholder: "Find a blog post"
 ---
+

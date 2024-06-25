@@ -2,20 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/PersonalWebsite/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/PersonalWebsite/posts/sequence_modeling/intro-to-sequence-modeling/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/posts/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PersonalWebsite/about/</loc>
   </url><url>
@@ -23,7 +10,19 @@
   </url><url>
     <loc>http://localhost:1313/PersonalWebsite/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/PersonalWebsite/</loc>
+  </url><url>
+    <loc>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/PersonalWebsite/tags/first/</loc>
+  </url><url>
+    <loc>http://localhost:1313/PersonalWebsite/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/PersonalWebsite/projects/</loc>
+  </url><url>
     <loc>http://localhost:1313/PersonalWebsite/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/PersonalWebsite/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/PersonalWebsite/thoughts/</loc>
   </url>

@@ -11,14 +11,13 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/PersonalWebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Intro to Recurrent Neural Networks</title>
+      <title></title>
       <link>http://localhost:1313/PersonalWebsite/posts/sequence_modeling/intro-to-sequence-modeling/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/PersonalWebsite/posts/sequence_modeling/intro-to-sequence-modeling/</guid>
-      <description>Why the need for a different model paradigm? Types of sequences modeling RNN modeling </description>
+      <description> </description>
     </item>
     <item>
       <title>About Me</title>
@@ -26,6 +25,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/PersonalWebsite/about/</guid>
       <description>Welcome Hi, I&amp;rsquo;m Fabian Jaeger. I am documenting my learnings about Artificial Intelligence, Science and Software Development in my blog. My interest lies in interpretable and reliable AI systems as well as Graph Machine Learning and the intersection of Machine learning and the sciences. If that sounds interesting to you, feel free to check out my Blog, where you will find other stuff that I thought worth sharing (still under construction though).</description>
+    </item>
+    <item>
+      <title>Fermle</title>
+      <link>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</guid>
+      <description>A small daily game, (Fermle), created over a weekend and inspired by popular sites like Wordle and Travle. Each day, a new Fermi question is presented, and players have three attempts to guess the correct answer. The score is based on the number of tries and the accuracy of the guesses.
+The goal of this project was to learn the basics of website deployment. The game is built using HTML, CSS, and JavaScript.</description>
     </item>
     <item>
       <title>Thoughts</title>

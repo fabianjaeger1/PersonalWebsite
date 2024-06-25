@@ -58,7 +58,7 @@ There as a student researcher, I performed electronic structure calculations bas
 
 During my studies, I took on a few machine learning modules and got facinated by the field and so I decided to get a part-time job working in Data Science for a small pharma company that aims to deliver a drug-identificaton software to pharmacies. 
 
-For my **[Master Thesis](Master_Thesis.pdf)** I then continued applying AI and worked on training state-of-the art universal machine learning force fields (UFF's) using [MACE](https://arxiv.org/pdf/2206.07697.pdf) and [M3GNet](https://arxiv.org/pdf/2202.02450.pdf) for two-dimensional material using a curated dataset of roughly 88'000 structures and exploring it as an alternative method to using Cluster Expansion for alloy modelling.
+For my **[Master Thesis](Master_Thesis.pdf)** I then continued applying AI and worked on training state-of-the art universal machine learning force fields (UFF's) using [MACE](https://arxiv.org/pdf/2206.07697.pdf) and [M3GNet](https://arxiv.org/pdf/2202.02450.pdf) for two-dimensional material using a curated dataset of roughly 88'000 structures and exploring it as an alternative method to using Cluster Expansion for alloy modelling. The results will be published as a Paper in the foreseeable future.
 
 
 My **[Bachelor Thesis](Bachelor_Thesis.pdf)** was conducted in the group of [Prof. Titus Neupert](https://scholar.google.com/citations?user=zXNka-AAAAAJ&hl=en) and dealt with investigating the phases of floquet-driven quantum many-body critical systems in one and two-dimensions. This included a numerical simulation part as well as the analysis of an analytical solution using conformal field theory. The plots on this one I think are kinda neat!

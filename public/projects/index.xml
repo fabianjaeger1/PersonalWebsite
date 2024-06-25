@@ -13,11 +13,12 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/PersonalWebsite/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/PersonalWebsite/projects/project_1/</link>
+      <title>Fermle</title>
+      <link>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/PersonalWebsite/projects/project_1/</guid>
-      <description> </description>
+      <guid>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</guid>
+      <description>A small daily game, (Fermle), created over a weekend and inspired by popular sites like Wordle and Travle. Each day, a new Fermi question is presented, and players have three attempts to guess the correct answer. The score is based on the number of tries and the accuracy of the guesses.
+The goal of this project was to learn the basics of website deployment. The game is built using HTML, CSS, and JavaScript.</description>
     </item>
   </channel>
 </rss>
