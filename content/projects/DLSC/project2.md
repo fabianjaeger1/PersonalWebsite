@@ -4,7 +4,7 @@ tags: ["first"]
 author: "Fabian Jaeger"
 math: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: true
 # description: "Finite Basis Physics Informed Neural Networks"
@@ -31,6 +31,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+
  
 <!-- [Regression](https://en.wikipedia.org/wiki/Regression_analysis): -->
 
@@ -38,6 +40,6 @@ Although PINNs are a powerful framework to solve many simpler differential equat
 
 To try and mitigate this problem, FBPINNs can be employed. Through a decomposition of the domain into smaller, partially overlapping subdomains, FBPINNs aim to turn the complex global problem into a easier to solve and smaller local optimisation problem. 
 
-![homeinfo](images/homeinfo.jpg)
+<!-- ![homeinfo](images/homeinfo.jpg) -->
 
 The goal of this report is to contrast the two frameworks and reproduce certain aspects of the paper "Finite Basis Physics-Informed Neural Networks (FBPINNs): a scalable domain decomposition approach for solving differential equations". 
