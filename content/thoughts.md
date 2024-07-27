@@ -13,6 +13,7 @@ This is a collection of some of my thoughts and interesting finds
 
 ### This section is currently under construction.
 
+
 <!-- ## Let's hope
 
 February has come to an end and with it also ended my experience hosting the 9th edition of the IndieWeb Carnival. To be honest with you, I didn’t know what to expect going into this. Foreverliketh.is—who was the host for the month of January—emailed me one day asking me if I wanted to host one of the upcoming months because the carnival was running short on hosts and I obviously accepted.

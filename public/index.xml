@@ -24,7 +24,8 @@
       <link>http://localhost:1313/PersonalWebsite/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/PersonalWebsite/about/</guid>
-      <description>Welcome Hi, I&amp;rsquo;m Fabian Jaeger. I am documenting my learnings about Artificial Intelligence, Science and Software Development in my blog. My interest lies in interpretable and reliable AI systems as well as Graph Machine Learning and the intersection of Machine learning and the sciences. If that sounds interesting to you, feel free to check out my Blog, where you will find other stuff that I thought worth sharing (still under construction though).</description>
+      <description>Welcome Hi, I’m Fabian Jaeger. I document my learnings on Artificial Intelligence, Science, and Software Development in my blog. My interests include interpretable and reliable AI systems, Graph Machine Learning, and the intersection of Machine Learning with the sciences. If this intrigues you, feel free to explore my blog, where I share various insights and findings. (Please note, it’s still under construction.)
+Background My background is in theoretical condensed matter and quantum physics.</description>
     </item>
     <item>
       <title>Fermle</title>
@@ -33,6 +34,14 @@
       <guid>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</guid>
       <description>A small daily game, (Fermle), created over a weekend and inspired by popular sites like Wordle and Travle. Each day, a new Fermi question is presented, and players have three attempts to guess the correct answer. The score is based on the number of tries and the accuracy of the guesses.
 The goal of this project was to learn the basics of website deployment. The game is built using HTML, CSS, and JavaScript.</description>
+    </item>
+    <item>
+      <title>Finite Basis Physics Informed Neural Networks</title>
+      <link>http://localhost:1313/PersonalWebsite/projects/dlsc/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWebsite/projects/dlsc/project2/</guid>
+      <description>Although PINNs are a powerful framework to solve many simpler differential equations, they lack the ability to capture the complexity of high-frequency and multi-scale problems, which is sometimes referred to as the spectral bias of Neural Networks. This in turn implies that for increasingly complex problems, the PINNs network size grows rapidly in addition to having a more complex optimisation problem to solve.
+To try and mitigate this problem, FBPINNs can be employed.</description>
     </item>
     <item>
       <title>Thoughts</title>

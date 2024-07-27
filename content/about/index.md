@@ -47,7 +47,7 @@ You can also connect with me at the following social platforms:
 
 ### Welcome
 
-Hi, I'm **Fabian Jaeger**. I am documenting my learnings about **Artificial Intelligence, Science** and **Software Development** in my blog. My interest lies in interpretable and reliable AI systems as well as Graph Machine Learning and the intersection of Machine learning and the sciences. If that sounds interesting to you, feel free to check out my Blog, where you will find other stuff that I thought worth sharing (still under construction though).
+Hi, I’m **Fabian Jaeger**. I document my learnings on **Artificial Intelligence**, **Science**, and **Software Development** in my blog. My interests include interpretable and reliable AI systems, Graph Machine Learning, and the intersection of Machine Learning with the sciences. If this intrigues you, feel free to explore my blog, where I share various insights and findings. (Please note, it’s still under construction.)
 
 
 ### Background
