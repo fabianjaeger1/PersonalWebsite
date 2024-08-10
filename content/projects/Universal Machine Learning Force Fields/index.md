@@ -4,7 +4,7 @@ tags: ["ML"]
 author: "Fabian Jaeger"
 math: true
 # author: ["Me", "You"] # multiple authors
-draft: false
+draft: true
 hidemeta: false
 comments: true
 # description: "Daily game that asks you a Fermi question on a daily basis."

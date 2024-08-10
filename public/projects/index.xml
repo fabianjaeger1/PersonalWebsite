@@ -29,12 +29,5 @@ At the core, each fund is represented by a tree.</description>
       <description>A small daily game, (Fermle), created over a weekend and inspired by popular sites like Wordle and Travle. Each day, a new Fermi question is presented, and players have three attempts to guess the correct answer. The score is based on the number of tries and the accuracy of the guesses.
 The goal of this project was to learn the basics of website deployment. The game is built using HTML, CSS, and JavaScript.</description>
     </item>
-    <item>
-      <title>UFF for Material Science</title>
-      <link>http://localhost:1313/PersonalWebsite/projects/universal-machine-learning-force-fields/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/PersonalWebsite/projects/universal-machine-learning-force-fields/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
