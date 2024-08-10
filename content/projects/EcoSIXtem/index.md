@@ -20,9 +20,9 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
-cover:
-  image: "images/ecosixtem.png"
-  caption: "Main Screen"
+# cover:
+#     image: "images/ecosixtem.png"
+#     caption: "Main Screen"
 showToc: true
 TocOpen: true
 ---

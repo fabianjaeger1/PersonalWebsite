@@ -20,9 +20,9 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
-cover:
-  image: "images/fermle.png"
-  caption: "Main Screen"
+# cover:
+#   image: "images/fermle.png"
+#   caption: "Main Screen"
 showToc: true
 TocOpen: true
 ---
