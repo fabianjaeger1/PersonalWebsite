@@ -49,6 +49,6 @@ Lastly for **governance** we decided on describing it by the amount and type of 
 
 ## Tech Stack
 
-Below is an overview of the used Tech stack. The backend consists of data preprocessing in python of a ESG manufacuters list in a .csv provided by the challenge, that lists out the different scores for each of the companies. This preprocessing is combined in a Flask server that also communicates with the SIX API to retrieve relevant information about the asset such as current price and growth numbers.
+Below is an overview of the used Tech stack. The backend consists of data preprocessing in python of a ESG manufacuters list in a `.csv` provided by the challenge, that lists out the different scores for each of the companies. This preprocessing is combined in a Flask server that also communicates with the SIX API to retrieve relevant information about the asset such as current price and growth numbers.
 
 ![Overview of Tech Stack](images/architecture.png)

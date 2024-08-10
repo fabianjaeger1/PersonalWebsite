@@ -18,8 +18,6 @@
   </url><url>
     <loc>http://localhost:50710/PersonalWebsite/tags/first/</loc>
   </url><url>
-    <loc>http://localhost:50710/PersonalWebsite/tags/ml/</loc>
-  </url><url>
     <loc>http://localhost:50710/PersonalWebsite/posts/</loc>
   </url><url>
     <loc>http://localhost:50710/PersonalWebsite/projects/</loc>
@@ -29,8 +27,6 @@
     <loc>http://localhost:50710/PersonalWebsite/tags/</loc>
   </url><url>
     <loc>http://localhost:50710/PersonalWebsite/thoughts/</loc>
-  </url><url>
-    <loc>http://localhost:50710/PersonalWebsite/projects/universal-machine-learning-force-fields/</loc>
   </url><url>
     <loc>http://localhost:50710/PersonalWebsite/tags/web/</loc>
   </url>
