@@ -2,49 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/PersonalWebsite/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/posts/sequence_modeling/intro-to-sequence-modeling/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/projects/ecosixtem/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/projects/fermle/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/projects/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/projects/fermle/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/tags/first/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/tags/ml/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:50710/PersonalWebsite/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/posts/sequence_modeling/intro-to-sequence-modeling/</loc>
+    <loc>http://localhost:50710/PersonalWebsite/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/about/</loc>
+    <loc>http://localhost:50710/PersonalWebsite/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/archives/</loc>
+    <loc>http://localhost:50710/PersonalWebsite/thoughts/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/posts/</loc>
+    <loc>http://localhost:50710/PersonalWebsite/projects/universal-machine-learning-force-fields/</loc>
   </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/PersonalWebsite/thoughts/</loc>
+    <loc>http://localhost:50710/PersonalWebsite/tags/web/</loc>
   </url>
 </urlset>
