@@ -1,11 +1,30 @@
 ---
+author: "Hugo Authors"
+title: "Markdown Syntax Guide"
+date: "2019-03-11"
+description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+tags: ["markdown", "css", "html", "themes"]
+categories: ["themes", "syntax"]
+series: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
+cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+    image: https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: true
+ShowToc: true
+TocOpen: true
+---
+
+<!-- ---
 title: "Fermle"
 tags: ["first"]
 author: "Fabian Jaeger"
 math: true
 # author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
 draft: false
 hidemeta: false
 comments: true
@@ -23,21 +42,18 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
-    image: "fermle.png" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
----
+  image: "images/fermle.png"
+  caption: "Main Screen"
+showToc: true
+TocOpen: true
+--- -->
+
+
  
 <!-- [Regression](https://en.wikipedia.org/wiki/Regression_analysis): -->
 
 A small daily game, ([Fermle](https://fermle.xyz)), created over a weekend and inspired by popular sites like Wordle and Travle. Each day, a new Fermi question is presented, and players have three attempts to guess the correct answer. The score is based on the number of tries and the accuracy of the guesses.
 
-<!-- ![Fermle](images/fermle.png) -->
+![Scenario 1: Across columns](images/fermle.png)
 
 The goal of this project was to learn the basics of website deployment. The game is built using HTML, CSS, and JavaScript.

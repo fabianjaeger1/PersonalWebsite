@@ -11,7 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/PersonalWebsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/PersonalWebsite/projects/fermle/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWebsite/projects/fermle/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/PersonalWebsite/posts/sequence_modeling/intro-to-sequence-modeling/</link>
@@ -26,14 +34,6 @@
       <guid>http://localhost:1313/PersonalWebsite/about/</guid>
       <description>Welcome Hi, I’m Fabian Jaeger. I document my learnings on Artificial Intelligence, Science, and Software Development in my blog. My interests include interpretable and reliable AI systems, Graph Machine Learning, and the intersection of Machine Learning with the sciences. If this intrigues you, feel free to explore my blog, where I share various insights and findings. (Please note, it’s still under construction.)
 Background My background is in theoretical condensed matter and quantum physics.</description>
-    </item>
-    <item>
-      <title>Fermle</title>
-      <link>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</guid>
-      <description>A small daily game, (Fermle), created over a weekend and inspired by popular sites like Wordle and Travle. Each day, a new Fermi question is presented, and players have three attempts to guess the correct answer. The score is based on the number of tries and the accuracy of the guesses.
-The goal of this project was to learn the basics of website deployment. The game is built using HTML, CSS, and JavaScript.</description>
     </item>
     <item>
       <title>Thoughts</title>

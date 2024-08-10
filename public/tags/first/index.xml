@@ -14,19 +14,11 @@
     <atom:link href="http://localhost:1313/PersonalWebsite/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fermle</title>
-      <link>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</link>
+      <link>http://localhost:1313/PersonalWebsite/projects/fermle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/PersonalWebsite/projects/fermle/project1/</guid>
+      <guid>http://localhost:1313/PersonalWebsite/projects/fermle/</guid>
       <description>A small daily game, (Fermle), created over a weekend and inspired by popular sites like Wordle and Travle. Each day, a new Fermi question is presented, and players have three attempts to guess the correct answer. The score is based on the number of tries and the accuracy of the guesses.
 The goal of this project was to learn the basics of website deployment. The game is built using HTML, CSS, and JavaScript.</description>
-    </item>
-    <item>
-      <title>Finite Basis Physics Informed Neural Networks</title>
-      <link>http://localhost:1313/PersonalWebsite/projects/dlsc/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/PersonalWebsite/projects/dlsc/project2/</guid>
-      <description>Although PINNs are a powerful framework to solve many simpler differential equations, they lack the ability to capture the complexity of high-frequency and multi-scale problems, which is sometimes referred to as the spectral bias of Neural Networks. This in turn implies that for increasingly complex problems, the PINNs network size grows rapidly in addition to having a more complex optimisation problem to solve.
-To try and mitigate this problem, FBPINNs can be employed.</description>
     </item>
   </channel>
 </rss>
