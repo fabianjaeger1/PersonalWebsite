@@ -22,9 +22,9 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
-    image: "../images/pycmap_0910.png" 
+    image: "/images/pycmap_0910.png" 
     caption: "Main Screen"
-    relative: true
+    relative: false
     # size: 40%
 showToc: true
 TocOpen: true
