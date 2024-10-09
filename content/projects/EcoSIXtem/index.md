@@ -22,7 +22,7 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
     image: "/images/ecosixtem.png"
-    caption: "Main Screen"
+    # caption: "Main Screen"
     relative: false
 showToc: true
 TocOpen: true

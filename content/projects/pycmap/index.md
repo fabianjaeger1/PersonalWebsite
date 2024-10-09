@@ -23,7 +23,7 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
     image: "/images/pycmap_0910.png" 
-    caption: "Main Screen"
+    # caption: "Main Screen"
     relative: false
     # size: 40%
 showToc: true
