@@ -21,7 +21,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
-  image: "images/fermles.png"
+  image: "/images/fermles.png"
   caption: "Main Screen"
   relative: true
 showToc: true

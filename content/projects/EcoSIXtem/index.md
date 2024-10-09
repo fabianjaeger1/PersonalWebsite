@@ -21,7 +21,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
-    image: "images/ecosixtem.png"
+    image: "/images/ecosixtem.png"
     caption: "Main Screen"
     relative: true
 showToc: true
