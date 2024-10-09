@@ -20,18 +20,45 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
-# cover:
-#     image: "images/ecosixtem.png"
-#     caption: "Main Screen"
+cover:
+    image: "images/ecosixtem.png"
+    caption: "Main Screen"
 showToc: true
 TocOpen: true
 ---
 
-This was a challenge proposed by SIX Financial Informations at the [START Hack 2024](https://www.startglobal.org/start-hack/home) in St.Gallen.
+EcoSIXTem was the solution to a hackathon challenge proposed by SIX Financial Informations at the [START Hack 2024](https://www.startglobal.org/start-hack/home) in St.Gallen.
 
 ## What is ESG?
+ESG stands for Environmental, Social, and Governance. It’s a framework used to evaluate how companies impact the world beyond just financial performance. Investors and consumers are increasingly interested in these criteria, which assess a company's sustainability and ethical practices.
 
-## Description
+**Environmental Criteria**
+This aspect looks at how a company affects the planet. Key factors include:
+
+- Carbon Footprint: Emissions and energy use.
+- Resource Management: Efficient use of water and materials.
+- Waste Management: Recycling and waste disposal practices.
+
+**Social Criteria**
+Social criteria focus on how a company treats its people and communities, including:
+
+- Labor Practices: Fair treatment and diversity in the workplace.
+- Community Engagement: Contributions to local development.
+- Customer Satisfaction: Product safety and quality.
+
+
+**Governance Criteria**
+This aspect examines how a company is run, covering:
+
+- Board Diversity: Representation in leadership roles.
+- Transparency: Open communication about practices and risks.
+- Ethical Conduct: Adherence to laws and anti-corruption efforts.
+
+
+## Why ESG Matters
+With growing attention on sustainability, ESG factors are becoming essential for investment decisions. Companies that prioritize ESG often perform better financially and attract more responsible investors. Additionally, consumers are increasingly choosing brands that align with their values, making ESG initiatives crucial for business success.
+
+## What is EcoSIXTem
 
 As the wordplay might suggest, it is a gamified pixel-art eco-system visualisation of your ESG score for your portfolio. This allows investors to quickly grasp the system's health through distinctive icons and tilesets that represent the four key areas: Growth, Environmental, Social, and Governance factors of the portfolio. 
 

@@ -32,9 +32,9 @@ Background My background is in theoretical condensed matter and quantum physics.
       <link>http://localhost:1313/PersonalWebsite/projects/ecosixtem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/PersonalWebsite/projects/ecosixtem/</guid>
-      <description>This was a challenge proposed by SIX Financial Informations at the START Hack 2024 in St.Gallen.
-What is ESG? Description As the wordplay might suggest, it is a gamified pixel-art eco-system visualisation of your ESG score for your portfolio. This allows investors to quickly grasp the system&amp;rsquo;s health through distinctive icons and tilesets that represent the four key areas: Growth, Environmental, Social, and Governance factors of the portfolio.
-At the core, each fund is represented by a tree.</description>
+      <description>EcoSIXTem was the solution to a hackathon challenge proposed by SIX Financial Informations at the START Hack 2024 in St.Gallen.
+What is ESG? ESG stands for Environmental, Social, and Governance. It’s a framework used to evaluate how companies impact the world beyond just financial performance. Investors and consumers are increasingly interested in these criteria, which assess a company&amp;rsquo;s sustainability and ethical practices.
+Environmental Criteria This aspect looks at how a company affects the planet.</description>
     </item>
     <item>
       <title>Fermle</title>
@@ -43,6 +43,14 @@ At the core, each fund is represented by a tree.</description>
       <guid>http://localhost:1313/PersonalWebsite/projects/fermle/</guid>
       <description>A small daily game, (Fermle), created over a weekend and inspired by popular sites like Wordle and Travle. Each day, a new Fermi question is presented, and players have three attempts to guess the correct answer. The score is based on the number of tries and the accuracy of the guesses.
 The goal of this project was to learn the basics of website deployment. The game is built using HTML, CSS, and JavaScript.</description>
+    </item>
+    <item>
+      <title>PyCMAP</title>
+      <link>http://localhost:1313/PersonalWebsite/projects/pycmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWebsite/projects/pycmap/</guid>
+      <description>PyCMAP: Customizing Python Matplotlib Colormaps Overview PyCMAP is a web application that helps academics and data visualization enthusiasts customize and export colormaps for Python&amp;rsquo;s Matplotlib. The platform simplifies the process of selecting effective color schemes for plots.
+Features Customizable Colormaps: Adjust parameters like hue and brightness to create unique color schemes. Export Functionality: Easily export colormaps for use in Matplotlib. Configure plot type: Allow for the selection of multiple types of plot types.</description>
     </item>
     <item>
       <title>Thoughts</title>

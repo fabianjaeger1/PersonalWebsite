@@ -22,6 +22,8 @@
   </url><url>
     <loc>http://localhost:1313/PersonalWebsite/projects/</loc>
   </url><url>
+    <loc>http://localhost:1313/PersonalWebsite/projects/pycmap/</loc>
+  </url><url>
     <loc>http://localhost:1313/PersonalWebsite/search/</loc>
   </url><url>
     <loc>http://localhost:1313/PersonalWebsite/tags/</loc>
