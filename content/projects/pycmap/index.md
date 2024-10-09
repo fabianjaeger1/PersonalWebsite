@@ -24,6 +24,7 @@ UseHugoToc: true
 cover:
     image: "images/pycmap_0910.png" 
     caption: "Main Screen"
+    relative: true
     # size: 40%
 showToc: true
 TocOpen: true

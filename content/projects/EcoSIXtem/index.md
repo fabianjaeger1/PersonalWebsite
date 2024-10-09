@@ -23,6 +23,7 @@ UseHugoToc: true
 cover:
     image: "images/ecosixtem.png"
     caption: "Main Screen"
+    relative: true
 showToc: true
 TocOpen: true
 ---
