@@ -26,8 +26,7 @@ Environmental Criteria This aspect looks at how a company affects the planet.</d
       <link>http://localhost:1313/PersonalWebsite/projects/pycmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/PersonalWebsite/projects/pycmap/</guid>
-      <description>PyCMAP: Customizing Python Matplotlib Colormaps Overview PyCMAP is a web application that helps academics and data visualization enthusiasts customize and export colormaps for Python&amp;rsquo;s Matplotlib. The platform simplifies the process of selecting effective color schemes for plots.
-Features Customizable Colormaps: Adjust parameters like hue and brightness to create unique color schemes. Export Functionality: Easily export colormaps for use in Matplotlib. Configure plot type: Allow for the selection of multiple types of plot types.</description>
+      <description>Customizing Python Matplotlib Colormaps</description>
     </item>
   </channel>
 </rss>
