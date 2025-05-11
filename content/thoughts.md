@@ -7,12 +7,57 @@ summary: thoughts
 
 # Random Thoughts
 
-This is a collection of some of my thoughts and interesting finds 
+This is a collection of some of my thoughts and interesting finds.
 
 ----
 
-### This section is currently under construction.
+<!-- ### Blogs
+- Farnam Street -->
 
+### Books
+
+Below is a non-exhaustive list of books I read over the years (and some I also haven't read and want to still read). I marked the ones that particularly stood out to me and had a positive impact on my life.
+
+
+#### Non-fiction
+- The Almanack of Naval Ravikant - Eric Jorgenson
+- How to Live - Derek Sivers
+- Hell Yeah or No - Derek Sivers
+- Anything you want - Derek Sivers
+- Never Finished - David Goggins
+- Essentialism - Greg McKeown
+- The Signal and the Noise - Nate Silver
+- Brief Answers to the Big Questions - Stephen Hawking
+- **A Brief History of Intelligence - Max Bennett**
+- Atomic Habits - James Clear
+- Stuff Matters - Mark Miodownik
+- Surely You're Joking, Mr. Feynman! - Richard Feynman
+- Freakonomics - Steven D. Levitt
+- The Psychology of Money - Morgan Housel 
+- Sapiens: A Brief History of Humankind - Yuval Noah Harari
+
+<!-- #### Fiction -->
+
+
+#### Textbooks
+
+**Machine Learning and AI**
+- Probabilistic Machine Learning - Murphy
+- Understanding Deep Learning - Prince
+- Hands on Machine Learning - Geron
+- Mathematics for Machine Learning - Deisenroth
+- Machine Learning: an applied introduction - Wilmott
+
+
+**Physics**
+- Concepts in Thermal Physics - Blundell
+- Feynman Lectures (duh) - Feynman
+- Modern Quantum Mechanics - Sakurai
+- Modern Condensed Matter Physics - Girvin and Yang
+- Quantum Information Theory - Wilde
+- Landau Lifschitz Series (if you enjoy pain)
+- Quantum Mechanics: Symmetries - Greiner 
+- Quantum Theory, Groups and Representation - Woit
 
 <!-- ## Let's hope
 
