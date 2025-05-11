@@ -92,14 +92,10 @@ params:
   socialIcons:
     - name: email
       url: "mailto:fabian_jaeger@outlook.com"
-    # - name: x
-    #   url: "https://x.com/"
-    # - name: stackoverflow
-    #   url: "https://stackoverflow.com"
+    - name: x
+      url: "https://x.com/fabian_jaeger1"
     - name: github
       url: "https://github.com/fabianjaeger1"
-    # - name: youtube
-    #   url: "https://youtube.com/@Matt_Jaeger"
     - name: linkedin
       url: "https://www.linkedin.com/in/fabian-jaeger/"
 
